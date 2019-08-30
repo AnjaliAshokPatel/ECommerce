@@ -5,7 +5,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Home Page</title>
+<title>Home Pages</title>
 </head>
 <body>
 	<c:forEach var="category" items="${allCategories}">
